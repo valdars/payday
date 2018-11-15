@@ -58,7 +58,7 @@ function chooseAnswer(chars) {
         .appendTo($answer);
     createAnswerRow()
         .append(createChar(answer[2]))
-        .append(createChar(''))
+        .append(createChar('empty'))
         .appendTo($answer);
     createAnswerRow()
         .append(createChar(answer[4]))
