@@ -1,0 +1,15 @@
+.cipher {
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+}
+
+.center {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    text-align: center;
+}
